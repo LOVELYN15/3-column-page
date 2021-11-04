@@ -35,3 +35,18 @@ font-weight: bolder;
   justify-content: space-around;
   height: 200px;
 }
+.content-2 {
+  background-color: rgb(213,183,255);
+  flex: 2;
+}
+.content-3 {
+  background-color: rgb(169,241,249);
+  flex: 1;
+  margin-right: 0;
+}
+footer {
+  background-color: rgb(148,252,242);
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
